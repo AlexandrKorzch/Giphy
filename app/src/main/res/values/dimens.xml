@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="grid_space">4dp</dimen>
+</resources>
