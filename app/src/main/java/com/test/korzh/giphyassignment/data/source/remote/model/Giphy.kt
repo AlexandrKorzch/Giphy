@@ -4,5 +4,5 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class GiphyResult(
-    val data: List<Data>
+    val data: List<Data>? = null
 )
